@@ -1,5 +1,5 @@
-# stepping-into-python
-**Step-by-step progression in Python, starting with "List".**
+# Stepping-into-python
+**Step-by-step progression in Python.
 
 ### 👤 Author
 - **Name:** Tirtha Biswas Joy
